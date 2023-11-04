@@ -1,0 +1,6 @@
+Nombre del estudiante: None
+Notas: 60.0, 70.0, 100.0, 89.0
+Nombre del estudiante: Cristofer
+Notas: 60.0, 100.0, 78.0, 89.0
+Promedio: 81.75
+
